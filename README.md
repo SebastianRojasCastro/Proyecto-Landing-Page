@@ -1,8 +1,8 @@
-# 🌐 Proyecto-LANDING-UI
+# 🌐 Proyecto-Landing-Page
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhycDB4dm45MXM4dXNuaDJ3ZmpuYjFycHpwZmR2OTU3bnZkdmppZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="35px"> ***Sobre este proyecto***
 
-🎨 **Proyecto-LANDING-UI** es un proyecto personal enfocado en el **diseño y desarrollo de una landing page moderna**, creada para fortalecer mis habilidades en **UX/UI Design** y explorar nuevas formas de integrar diseño con código.  
+🎨 **Proyecto-Landing-Page** es un proyecto personal enfocado en el **diseño y desarrollo de una landing page moderna**, creada para fortalecer mis habilidades en **UX/UI Design** y explorar nuevas formas de integrar diseño con código.  
 
 💡 El objetivo principal de esta landing es combinar **estética, funcionalidad y comunicación clara**, aplicando principios de diseño centrado en el usuario y buenas prácticas visuales adaptadas a diferentes dispositivos.
 
